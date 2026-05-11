@@ -7,7 +7,7 @@
 </div>
 
 ---
-
+<div align="center">
 ## 🚀 About Me
 
 I'm a Software Engineering student at **PUCPR** and a Computer Technician graduated from **IFPR**.  
@@ -17,7 +17,7 @@ Passionate about technology, software development, and problem-solving, I've bee
 
 ---
 
-<div align="center">
+
   ## 🧠 Tech Stack
 
 ### 💻 Development
