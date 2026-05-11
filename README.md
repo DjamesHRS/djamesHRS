@@ -2,7 +2,7 @@
 
 # Hello world, I'm Djames! 👨‍💻
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=4276FF&center=true&vCenter=true&width=600&lines=Software+Engineering+Student;Systems+Analyst+Trainee;Tech+Enthusiast;Building+my+path+since+2021" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=4276FF&center=true&vCenter=true&width=600&lines=Software+Engineer;Systems+Analyst+Trainee;Tech+Enthusiast;Building+my+path+since+2021" alt="Typing SVG" />
 
 </div>
 
@@ -21,7 +21,7 @@ Passionate about technology, software development, and problem-solving, I've bee
 
 ### 💻 Development
 
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=php,js,react,jquery,html,css,tailwind,bootstrap,python,django,java,mysql,postgres" />
 </p>
 
@@ -29,12 +29,9 @@ Passionate about technology, software development, and problem-solving, I've bee
 
 ## ⚙️ Environment & Tools
 
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=git,docker,vscode,idea" />
 </p>
-
-- Astah
-- Bizagi
 
 ---
 
@@ -42,9 +39,9 @@ Passionate about technology, software development, and problem-solving, I've bee
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=djamesHRS&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=djamesHRS&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
