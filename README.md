@@ -17,7 +17,8 @@ Passionate about technology, software development, and problem-solving, I've bee
 
 ---
 
-## 🧠 Tech Stack
+<div align="center">
+  ## 🧠 Tech Stack
 
 ### 💻 Development
 
@@ -71,4 +72,5 @@ Passionate about technology, software development, and problem-solving, I've bee
 
 ### ⚡ “Technology moves the world — and I'm building my place in it.”
 
+</div>
 </div>
