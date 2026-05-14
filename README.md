@@ -43,7 +43,7 @@ I'm constantly learning and building modern solutions to evolve as a developer.
 
 <div align="center">
 
-<img align="center" src="https://skillicons.dev/icons?i=php,js,react,jquery,html,css,tailwind,bootstrap,python,django,java,mysql,postgres&perline=7" />
+<img align="center" src="https://skillicons.dev/icons?i=php,js,react,jquery,html,css,tailwind,bootstrap,python,django,java,mysql,postgres&perline=4" />
 
 </div>
 
@@ -53,7 +53,7 @@ I'm constantly learning and building modern solutions to evolve as a developer.
 
 <div align="center">
 
-<img align="center" src="https://skillicons.dev/icons?i=git,docker,vscode,pycharm,idea&perline=4" />
+<img align="center" src="https://skillicons.dev/icons?i=git,docker,vscode,pycharm,idea&perline=5" />
 
 </div>
 
