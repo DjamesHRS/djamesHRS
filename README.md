@@ -53,7 +53,7 @@ I'm constantly learning and building modern solutions to evolve as a developer.
 
 <div align="center">
 
-<img align="center" src="https://skillicons.dev/icons?i=git,docker,vscode,idea&perline=4" />
+<img align="center" src="https://skillicons.dev/icons?i=git,docker,vscode,pycharm,idea&perline=4" />
 
 </div>
 
